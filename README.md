@@ -1,2 +1,2 @@
 # test
-<!--test whether can be rewrite-->
+<!--test the file whether can be rewrite-->
